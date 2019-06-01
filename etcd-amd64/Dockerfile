@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd：3.3.13
+FROM gcr.io/google_containers/etcd
 MAINTAINER mritd <mritd@mritd.me>
