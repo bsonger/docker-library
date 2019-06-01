@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcdadm64
+FROM gcr.io/google_containers/etcdamd64
 MAINTAINER mritd <mritd@mritd.me>
