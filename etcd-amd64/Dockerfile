@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.1.11
+FROM quay.io/coreos/etcd:latest
 MAINTAINER mritd <mritd@mritd.me>
